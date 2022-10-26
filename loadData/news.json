@@ -42,7 +42,7 @@
     {
         "id": 6,
         "category_id": 6,
-        "author": "https://thediffpodcast.com/assets/images/jordan-2c43ff762e625d49ea58424e3e74188a.jpg",
+        "author": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgMKQ31s1lpSIBW9jR-stO9fMG8QhQ95bbEy25dqdQvWAJrxGHm7OK8J45Xodu638H73c&usqp=CAU",
         "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--I4FWon9Y--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ll22z8mea106b4vjdjy7.jpeg",
         "name": "Vue.js",
         "details": "Vue.js is an open-source model view viewmodel front end JavaScript framework for building user interfaces and single-page applications"
