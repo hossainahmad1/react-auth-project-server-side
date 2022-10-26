@@ -24,7 +24,7 @@ app.get('/categories/:id', (req, res) => {
 app.get('/details/:id', (req, res) => {
     const id = req.params.id;
     // console.log(id)
-    const selectDetails = details.find(n => n.category_id == id)
+    const selectDetails = details.filter(n => n.category_id === id)
     res.send(selectDetails);
     // res.send(details)
 })
