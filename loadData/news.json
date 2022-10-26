@@ -2,6 +2,7 @@
     {
         "id": 2,
         "category_id": 2,
+        "author": "https://thediffpodcast.com/assets/images/jordan-2c43ff762e625d49ea58424e3e74188a.jpg",
         "name": "Angular.js",
         "img": "https://www.creative-tim.com/blog/content/images/wordpress/2017/03/AngularJS-e1487056257254.png",
         "details": "AngularJS is a structural framework for dynamic web apps. It lets you use HTML as your template language and lets you extend HTML's syntax to express your application's components clearly and succinctly."
@@ -9,6 +10,7 @@
     {
         "id": 1,
         "category_id": 1,
+        "author": "https://thediffpodcast.com/assets/images/jordan-2c43ff762e625d49ea58424e3e74188a.jpg",
         "img": "https://www.patterns.dev/img/reactjs/react-logo@3x.svg",
         "name": "React.js",
         "details": "React is a free and open-source front-end JavaScript library for building user interfaces based on UI components. It is maintained by Meta and a community of indivcategory_idual developers and companies."
@@ -16,6 +18,7 @@
     {
         "id": 3,
         "category_id": 3,
+        "author": "https://thediffpodcast.com/assets/images/jordan-2c43ff762e625d49ea58424e3e74188a.jpg",
         "img": "https://web-components-resources.appspot.com/assets/images/a-quick-polymer-intro.png",
         "name": "Polymer.js",
         "details": "Polymer. js is a JavaScript library created by Google that allows reusing the HTML elements for building applications with components. "
@@ -23,6 +26,7 @@
     {
         "id": 4,
         "category_id": 4,
+        "author": "https://thediffpodcast.com/assets/images/jordan-2c43ff762e625d49ea58424e3e74188a.jpg",
         "img": "https://dvg5hr78c8hf1.cloudfront.net/2016/06/17/13/40/04/0e0ad652-7ec1-42cc-b11a-22e23416b925/1*43iMEUCFtX19UB7Og3F0Bg.jpeg",
         "name": "Backbone.js",
         "details": "Backbone.js is a JavaScript rich-client web app framework based on the model view controller design paradigm, intended to connect to an API over a RESTful JSON interface"
@@ -30,6 +34,7 @@
     {
         "id": 5,
         "category_id": 5,
+        "author": "https://thediffpodcast.com/assets/images/jordan-2c43ff762e625d49ea58424e3e74188a.jpg",
         "img": "https://www.heliossolutions.co/blog/wp-content/uploads/2015/11/aurelia-framework-compressor.png",
         "name": "Aurelia.js",
         "details": "Aurelia is a collection of Modern JavaScript modules, which when used together, function as a powerful platform for building browser, desktop and mobile applications, all open source and built on open web standards."
@@ -37,6 +42,7 @@
     {
         "id": 6,
         "category_id": 6,
+        "author": "https://thediffpodcast.com/assets/images/jordan-2c43ff762e625d49ea58424e3e74188a.jpg",
         "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--I4FWon9Y--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ll22z8mea106b4vjdjy7.jpeg",
         "name": "Vue.js",
         "details": "Vue.js is an open-source model view viewmodel front end JavaScript framework for building user interfaces and single-page applications"
