@@ -1,14 +1,14 @@
 [
     {
-        "id": 1,
-        "category_id": 1,
+        "id": 2,
+        "category_id": 2,
         "image": "https://blog.hubspot.com/hs-fs/hubfs/JavaScript-frameworks-598px.png?wcategory_idth=893&height=600&name=JavaScript-frameworks-598px.png",
         "name": "Angular.js",
         "details": "AngularJS is a structural framework for dynamic web apps. It lets you use HTML as your template language and lets you extend HTML's syntax to express your application's components clearly and succinctly."
     },
     {
-        "id": 2,
-        "category_id": 2,
+        "id": 1,
+        "category_id": 1,
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5PvX_YaHnjn9HNzzf0MM32osx3PeSFrQl5A&usqp=CAU",
         "name": "React.js",
         "details": "React is a free and open-source front-end JavaScript library for building user interfaces based on UI components. It is maintained by Meta and a community of indivcategory_idual developers and companies."
